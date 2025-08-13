@@ -5,7 +5,6 @@ A ML pipeline that classifies product images into 50 different e-commerce catego
 Built using PyTorch and Transformers for deep learning, and BeautifulSoup for web-crawling.
 
 ## 50 Categories
-"ecommerce-product-classifier/categories.png")
 !(ecommerce-product-classifier/categories.png)
 ## Setup & Usage
 1. Clone the repository

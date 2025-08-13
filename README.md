@@ -5,8 +5,7 @@ A ML pipeline that classifies product images into 50 different e-commerce catego
 Built using PyTorch and Transformers for deep learning, and BeautifulSoup for web-crawling.
 
 ## 50 Categories
-ecommerce-product-classifier/categories.png
-## Setup & Usage
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")## Setup & Usage
 1. Clone the repository
 2. Copy `.env.template` to `.env` and add your Hugging Face API token. This is needed to pull in the Google transformer model, or the model of your choice.
 3. As code is all in notebook, no install needed from your terminal. Just run the notebook.

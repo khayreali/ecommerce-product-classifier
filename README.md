@@ -11,6 +11,6 @@ Copy `.env.template` to `.env` and add your Hugging Face API token. This is need
 As code is all in notebook, no install needed from your terminal. Just run the notebook.
 
 ## Model Performance
-- **Training Accuracy**: ~
-- **Test Accuracy**: ~
-- **Training Time**: ~ hours on A100 GPU
+**Training Accuracy**: ~97%
+**Test Accuracy**: ~97%
+**Training Time**: ~With A100GPU, it takes two hours to crawl for pictures, three hours for image processing, and and additional three hours to train A100 GPU. It's a lengthy pipeline, with room for improvement, but duration is 

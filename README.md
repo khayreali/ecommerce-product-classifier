@@ -1,4 +1,4 @@
-# E-Commerce Product Image Classification
+# E-Commerce Product Classification
 
 ## Project Overview
 A ML pipeline that classifies product images into 50 different e-commerce categories (see below). The project includes a custom web scraper that collected 12,500+ product images across the categories ranging from electronics to home goods, followed by fine-tuning Google's Vision Transformer (ViT) model to achieve 95%+ classification accuracy.

@@ -13,4 +13,4 @@ Built using PyTorch and Transformers for deep learning, and BeautifulSoup for we
 ## Model Performance
 - **Training Accuracy**: ~97%
 - **Test Accuracy**: ~97%
-- **Training Time**: ~With H100GPU, it takes two hours to crawl for pictures, three hours for image processing, and and additional three hours to train the model.
+- **Training Time**: ~With H100GPU, it takes two hours to crawl for pictures, one hour for image processing, and and additional hour to train the model.

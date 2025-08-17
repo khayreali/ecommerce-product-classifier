@@ -8,7 +8,8 @@ The HuggingFace model card can be found [here](https://huggingface.co/khayreali/
 ## 50 Categories
 ![alt text](https://github.com/khayreali/ecommerce-product-classifier/blob/main/categories.png "Logo Title Text 1")
 
-## Notes 
+## Notes
+- Copy 
 - Copy `.env.template` to `.env` and add your Hugging Face API token. This is needed to pull in the Google transformer model, or the model of your choice.
 - As code is all in notebook, no install needed from your terminal. Just run the notebook.
 

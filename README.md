@@ -3,6 +3,8 @@ A pipeline that classifies product images into 50 different e-commerce categorie
 
 Built using PyTorch and Transformers for deep learning, and BeautifulSoup for web-crawling.
 
+The HuggingFace model card can be found [here](https://huggingface.co/khayreali/vit-base-ecommerce-classification).
+
 ## 50 Categories
 ![alt text](https://github.com/khayreali/ecommerce-product-classifier/blob/main/categories.png "Logo Title Text 1")
 

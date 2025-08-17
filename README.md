@@ -1,8 +1,6 @@
 # E-Commerce Product Classifier
 A pipeline that classifies product images into 50 different e-commerce categories (see below). The project includes a custom web scraper that collected 12,500+ product images across the categories ranging from electronics to home goods, followed by fine-tuning Google's Vision Transformer (ViT) model to achieve 95%+ classification accuracy.
 
-Built using PyTorch and Transformers for deep learning, and BeautifulSoup for web-crawling.
-
 The HuggingFace model card can be found [here](https://huggingface.co/khayreali/vit-base-ecommerce-classification).
 
 ## 50 Categories
@@ -13,6 +11,6 @@ The HuggingFace model card can be found [here](https://huggingface.co/khayreali/
 - As code is all in notebook, no install needed from your terminal. Just run the notebook.
 
 ## Model Performance
-- **Training Accuracy**: ~97%
-- **Test Accuracy**: ~97%
+- **Training Accuracy**: ~95%
+- **Test Accuracy**: ~95%
 - **Training Time**: ~With H100GPU, it takes two hours to crawl for pictures, one hour for image processing, and and additional hour to train the model.
